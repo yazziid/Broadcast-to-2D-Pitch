@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.venv
+SoccerNet/
+yolo_dataset/
+yolo_dataset_valid/
+Test Values/SNGS-128/YOLO/Player_Detection/SNGS-128_YOLO_results.mp4
+Test Values/SNGS-128/YOLO/Player_Detection_and_mapping/SNGS-128_YOLO_side_by_side.mp4
