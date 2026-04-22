@@ -1,0 +1,5 @@
+huggingface_hub[cli]
+numpy
+opencv-python
+ultralytics
+scikit-learn
