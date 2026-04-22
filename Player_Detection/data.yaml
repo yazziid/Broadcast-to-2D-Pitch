@@ -1,0 +1,10 @@
+# data.yaml
+train: ./yolo_dataset_mini/images/train
+val: ./yolo_dataset_valid_mini/images/train 
+
+names:
+  0: player_team_a
+  1: player_team_b
+  2: goalkeeper_team_a
+  3: goalkeeper_team_b
+  4: other
