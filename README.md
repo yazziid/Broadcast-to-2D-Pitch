@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to detectplayers from broadcast video and compare different methods to map into a 2D plan.
+This project aims to detect players from broadcast video and compare different methods to map into a 2D plan.
 
 ## How to Run
 
